@@ -25,7 +25,7 @@ A fast, keyboard-driven photography culling and management tool designed for pho
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/imcull.git
+   git clone https://github.com/jasonzondor/imcull.git
    cd imcull
    ```
 
@@ -86,4 +86,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT
+MIT-
