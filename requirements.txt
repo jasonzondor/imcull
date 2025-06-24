@@ -1,0 +1,8 @@
+PyQt6>=6.5.0
+opencv-python>=4.7.0
+rawpy>=0.17.0
+numpy>=1.24.0
+Pillow>=9.5.0
+exifread>=3.0.0
+pyyaml>=6.0.0
+pyxdg>=0.28
